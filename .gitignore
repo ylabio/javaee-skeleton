@@ -1,0 +1,11 @@
+*.class
+.idea/*
+*.iml
+out/*
+target/*
+*.iml
+target
+.idea
+*.log
+dependency-reduced-pom.xml
+buildNumber.properties
